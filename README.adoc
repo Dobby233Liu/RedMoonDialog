@@ -1,0 +1,6 @@
+RedMoonDialog
+===========
+Liu wenyuan
+
+I think, everyone may not wanna have a note while Red Moon's status is toggled. But, i, {author}, do it use a small note in the about page. It's like my best example for it.
+NOTE: Please open the app first to let it work.
