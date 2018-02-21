@@ -1,4 +1,4 @@
-== RedMoonDialog
+RedMoonDialog
 ===========
 Liu wenyuan
 
